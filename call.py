@@ -22,8 +22,8 @@ NH33=7    # N3/2 - 1
 MH33=11   # M3/2 - 1
 
 
-ITL =  10000 # number of time steps in one episode
-IYD = 14 # index of the detection plan height
+ITL =  10000 # number of time steps in one episode (for our solver, ITL = 10000 corresponding to T^+ = 600)
+IYD = 14 # index of the detection plan height (y^+ = 15)
 
 total_episodes = 200 # number of episodes
 
