@@ -1,8 +1,11 @@
-##################################
+#####################################################
 #
+#   @ Authors: 
+#          Takahiro Sonoda, Zhuchen Liu
+#          Institute of Industrial Science,
+#          The University of Tokyo
 #
-#
-##################################
+#####################################################
 
 import tensorflow as tf # ver. 2.4.1
 from tensorflow.keras import layers
