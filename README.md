@@ -1,1 +1,1 @@
-# Reinforcement-learning-turbulence-control
+# Reinforcement-learning-for-turbulence-control
