@@ -5,6 +5,8 @@
   
 ###  Institute of Industrial Science, The University of Tokyo
 
+
+
 The code uses reinforcement learning technique (DDPG) to control a fully developed turbulent channel flow by wall blowing and suction. The measurement quantities (states) can be set as the velocity profile at a single plane away from the wall.
 
 Calculations are done by importing a Fortran based package compiled by using f2py in a Python scripts.
