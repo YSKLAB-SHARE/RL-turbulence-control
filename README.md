@@ -1,7 +1,7 @@
 # Reinforcement-learning-for-turbulence-control
 
 @ Authors: 
-  Takahiro Sonoda, Zhuchen Liu
+  Takahiro Sonoda, Zhuchen Liu \\
   Institute of Industrial Science,
   The University of Tokyo
 
