@@ -1,7 +1,7 @@
 #####################################################
 #
 #   @ Authors: 
-#          Takahiro Sonoda, Zhuchen Liu
+#          Takahiro Sonoda, Zhuchen Liu, Toshitaka Itoh, Yosuke Hasegawa
 #          Institute of Industrial Science,
 #          The University of Tokyo
 #
